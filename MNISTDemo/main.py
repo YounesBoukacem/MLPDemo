@@ -8,13 +8,18 @@ pygame.init()
 screen = pygame.display.set_mode((screen_width, screen_height))
 screen.fill("black")
 
+
+# __Creating the grid__
+
+# Parameters
 grid_res = 28
 cell_size = 10
-explosion_coef = 5
-explosion_radius = 3
+explosion_coef = 3
+explosion_radius = 2
 border_color = 'white'
 bg = 'black'
 
+# Grid class
 class DrawingGrid():
 
 	def __init__(self, dest_surf:pygame.Surface, pos, res_x, res_y, cell_size, bg, border_color, explosion_coef, explosion_radius):
@@ -31,16 +36,20 @@ class DrawingGrid():
 
 		self.width	= res_x * cell_size
 		self.height	= res_y * cell_size
-		self.surf = pygame.Surface((self.width, self.height))
-		self.surf.fill(bg)
+		padding = 5
+		self.border_surface = pygame.Surface((self.width+2*padding, self.height+2*padding))
+		self.border_surface.fill(bg)
 		pygame.draw.rect(
-			surface=self.surf,
+			surface=self.border_surface,
 			color=border_color,
-			rect=pygame.Rect(0, 0, self.width, self.height),
+			rect=pygame.Rect(0, 0, self.width+2*padding, self.height+2*padding),
 			width=1
 		)
+		self.surf = pygame.Surface((self.width, self.height))
+		self.surf.fill(bg)
 		dest_surf.blit(self.surf, (pos[0], pos[1]))
-	
+		dest_surf.blit(self.border_surface, (pos[0]-padding, pos[1]-padding))
+
 	def explode(self, pos):
 		try:
 			self.img[pos[0], pos[1]] = 1
@@ -83,36 +92,55 @@ class DrawingGrid():
 
 	def clear(self):
 		self.surf.fill(self.bg)
-		pygame.draw.rect(
-			surface=self.surf,
-			color=self.border_color,
-			rect=pygame.Rect(0, 0, self.width, self.height),
-			width=1
-		)
 		self.img = np.zeros((self.res_x, self.res_y))
 		self.dest_surf.blit(self.surf, (self.pos[0], self.pos[1]))
 
 
-# Creating the grid
+# Instantiating the grid
 grid_size = grid_res * cell_size
-grid_pos_x = (screen_width-grid_size) / 2 
+grid_pos_x = 100#(screen_width-grid_size) / 2 
 grid_pos_y = (screen_height-grid_size) / 2
 drawing_grid = DrawingGrid(screen, (grid_pos_x, grid_pos_y), grid_res, grid_res, cell_size, bg, border_color, explosion_coef, explosion_radius)
 
+
+# __Submit button__
+class TextButton():
+	def __init__(self, dest_surf:pygame.Surface, pos, dim, bg, border_color, text, text_color, font_size):
+		self.dest_surf = dest_surf
+		
+		self.button_surf = pygame.Surface(dim)
+		self.button_surf.fill(bg)
+		pygame.draw.rect(self.button_surf, border_color, self.button_surf.get_rect(), 1, 2)
+		
+		self.text_surf = pygame.font.SysFont(None, font_size).render(text, True, text_color)
+		text_surf_x = (dim[0] - self.text_surf.get_width()) / 2
+		text_surf_y = (dim[1] - self.text_surf.get_height()) / 2
+		self.button_surf.blit(self.text_surf, (text_surf_x, text_surf_y))
+		self.dest_surf.blit(self.button_surf, pos)
+
+submit_button_width = 100
+submit_button_height = 50
+submit_button_x = grid_pos_x + (grid_size - submit_button_width) / 2
+submit_button_y = grid_pos_y + grid_size + 50
+submit_button = TextButton(screen,
+						   (submit_button_x, submit_button_y),
+						   (submit_button_width, submit_button_height),
+						   'black','white',
+						   'Submit','white', 36)
 # Initial Drawing
 pygame.display.flip()
 
 running = True
 while running:
 	
-	if pygame.mouse.get_pressed()[0]:
-		pos = pygame.mouse.get_pos()
-		drawing_grid.draw(pos)
-
-	if pygame.mouse.get_pressed()[2]:
-		drawing_grid.clear()
-	
 	for event in pygame.event.get():
+		if event.type == pygame.MOUSEMOTION:
+			if event.buttons[0]:
+				pos = pygame.mouse.get_pos()
+				drawing_grid.draw(pos)
+		if event.type == pygame.MOUSEBUTTONDOWN:
+			if event.button == 3:
+				drawing_grid.clear()
 		if event.type == pygame.QUIT:
 			running = False
 
