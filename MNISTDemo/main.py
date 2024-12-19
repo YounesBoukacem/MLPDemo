@@ -14,8 +14,8 @@ screen.fill("black")
 # Parameters
 grid_res = 28
 cell_size = 10
-explosion_coef = 3
-explosion_radius = 2
+explosion_coef = 0
+explosion_radius = 0
 border_color = 'white'
 bg = 'black'
 
@@ -107,7 +107,9 @@ drawing_grid = DrawingGrid(screen, (grid_pos_x, grid_pos_y), grid_res, grid_res,
 class TextButton():
 	def __init__(self, dest_surf:pygame.Surface, pos, dim, bg, border_color, text, text_color, font_size):
 		self.dest_surf = dest_surf
-		
+		self.pos = pos
+		self.dim = dim
+
 		self.button_surf = pygame.Surface(dim)
 		self.button_surf.fill(bg)
 		pygame.draw.rect(self.button_surf, border_color, self.button_surf.get_rect(), 1, 2)
@@ -117,6 +119,11 @@ class TextButton():
 		text_surf_y = (dim[1] - self.text_surf.get_height()) / 2
 		self.button_surf.blit(self.text_surf, (text_surf_x, text_surf_y))
 		self.dest_surf.blit(self.button_surf, pos)
+	
+	def click(self, click_pos):
+		if self.pos[0] < click_pos[0] < self.pos[0] + self.dim[0] and self.pos[1] < click_pos[1] < self.pos[1] + self.dim[1]:
+			return True
+		return False
 
 submit_button_width = 100
 submit_button_height = 50
@@ -131,6 +138,34 @@ submit_button = TextButton(screen,
 pygame.display.flip()
 
 running = True
+
+# import torch
+
+# # Define the model
+# class MNISTModel(torch.nn.Module):
+# 	def __init__(self):
+# 		super(MNISTModel, self).__init__()
+# 		self.flatten = torch.nn.Flatten()
+# 		self.linear_relu_stack = torch.nn.Sequential(
+# 			torch.nn.Linear(28*28, 512),
+# 			torch.nn.ReLU(),
+# 			torch.nn.Linear(512, 512),
+# 			torch.nn.ReLU(),
+# 			torch.nn.Linear(512, 10),
+# 			torch.nn.LogSoftmax(dim=1)
+# 		)
+		
+# 	def forward(self, x):
+# 		x = self.flatten(x)
+# 		log_probs = self.linear_relu_stack(x)
+# 		return log_probs
+
+# model = MNISTModel()
+# model.load_state_dict(torch.load('D:\projects\MLPDemo\MNISTDemo\mnist_model.pth'))
+
+from tensorflow.keras.models import load_model
+model = load_model('D:\projects\MLPDemo\MNISTDemo\mnist_model.keras')
+
 while running:
 	
 	for event in pygame.event.get():
@@ -141,6 +176,13 @@ while running:
 		if event.type == pygame.MOUSEBUTTONDOWN:
 			if event.button == 3:
 				drawing_grid.clear()
+			elif event.button == 1:
+				if submit_button.click(pygame.mouse.get_pos()):
+					# example = torch.tensor(drawing_grid.img, dtype=torch.float32).view(-1)
+					# probs = torch.exp(model(example.expand(1, -1))).squeeze(0)
+					# print(probs)
+					# print(torch.argmax(probs))
+					print(np.argmax(model.predict(drawing_grid.img.reshape(1, 28, 28))))
 		if event.type == pygame.QUIT:
 			running = False
 
