@@ -1241,8 +1241,8 @@
     },
     {
       "type": "text",
-      "version": 641,
-      "versionNonce": 1347634759,
+      "version": 643,
+      "versionNonce": 15803996,
       "isDeleted": false,
       "id": "gRraLgDsdrKbxkxRQjzE9",
       "fillStyle": "solid",
@@ -1262,7 +1262,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975907,
+      "updated": 1739525571147,
       "link": null,
       "locked": false,
       "fontSize": 77.60200218640777,
@@ -1273,12 +1273,12 @@
       "containerId": null,
       "originalText": "f(",
       "lineHeight": 1.2,
-      "baseline": 74
+      "baseline": 75
     },
     {
       "type": "text",
-      "version": 641,
-      "versionNonce": 102786473,
+      "version": 643,
+      "versionNonce": 517995876,
       "isDeleted": false,
       "id": "yZZH8C56zpdh-MZ28Z5YM",
       "fillStyle": "solid",
@@ -1298,7 +1298,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975910,
+      "updated": 1739525571148,
       "link": null,
       "locked": false,
       "fontSize": 73.8403222764625,
@@ -1313,8 +1313,8 @@
     },
     {
       "type": "text",
-      "version": 606,
-      "versionNonce": 918611303,
+      "version": 608,
+      "versionNonce": 1026816732,
       "isDeleted": false,
       "id": "Isdl6pTTq7Gjt7jSAOw9d",
       "fillStyle": "solid",
@@ -1334,7 +1334,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975916,
+      "updated": 1739525571149,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1345,12 +1345,12 @@
       "containerId": null,
       "originalText": "Method 2: Let's think for a sec.",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 527,
-      "versionNonce": 1043843209,
+      "version": 529,
+      "versionNonce": 1547874532,
       "isDeleted": false,
       "id": "94Km3tbBdH6fM6EFZ3tCF",
       "fillStyle": "solid",
@@ -1370,7 +1370,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975922,
+      "updated": 1739525571151,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -1381,12 +1381,12 @@
       "containerId": null,
       "originalText": "The Model as a Search Space",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 363,
-      "versionNonce": 946708615,
+      "version": 365,
+      "versionNonce": 52969308,
       "isDeleted": false,
       "id": "cerwhk13xYDomvHT-61y2",
       "fillStyle": "solid",
@@ -1406,7 +1406,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975924,
+      "updated": 1739525571151,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1417,12 +1417,12 @@
       "containerId": null,
       "originalText": "What could such an ",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 705,
-      "versionNonce": 119525225,
+      "version": 707,
+      "versionNonce": 1375925348,
       "isDeleted": false,
       "id": "Xtl9HZcCmPySSh-gC3m3h",
       "fillStyle": "solid",
@@ -1442,7 +1442,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975927,
+      "updated": 1739525571152,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1457,8 +1457,8 @@
     },
     {
       "type": "text",
-      "version": 678,
-      "versionNonce": 1461057447,
+      "version": 680,
+      "versionNonce": 2065691612,
       "isDeleted": false,
       "id": "nS5A2L8gcJlmBExXGDo6l",
       "fillStyle": "solid",
@@ -1478,7 +1478,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975929,
+      "updated": 1739525571152,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1489,12 +1489,12 @@
       "containerId": null,
       "originalText": "Yes and you know it too ... Matrices 🙃!",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 1018,
-      "versionNonce": 1193540169,
+      "version": 1020,
+      "versionNonce": 1039058916,
       "isDeleted": false,
       "id": "6R_em1dLsLKE3EuqZ1R4c",
       "fillStyle": "solid",
@@ -1514,7 +1514,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975931,
+      "updated": 1739525571153,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1525,12 +1525,12 @@
       "containerId": null,
       "originalText": "[1, 10, -9, 4]",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 1168,
-      "versionNonce": 686189255,
+      "version": 1170,
+      "versionNonce": 1932335196,
       "isDeleted": false,
       "id": "jW96YfTXi0yBhG4dQaFAq",
       "fillStyle": "solid",
@@ -1559,7 +1559,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1734727975932,
+      "updated": 1739525571153,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1570,12 +1570,12 @@
       "containerId": null,
       "originalText": "[13, 198]",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 1016,
-      "versionNonce": 253741353,
+      "version": 1018,
+      "versionNonce": 1947478884,
       "isDeleted": false,
       "id": "XIGh7oGrTr8wM4AqW1w9B",
       "fillStyle": "solid",
@@ -1595,7 +1595,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975932,
+      "updated": 1739525571153,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1606,12 +1606,12 @@
       "containerId": null,
       "originalText": "22, 40",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 1190,
-      "versionNonce": 1249606119,
+      "version": 1192,
+      "versionNonce": 656518364,
       "isDeleted": false,
       "id": "Fdo-16XfW1Qwoz_Emi_5e",
       "fillStyle": "solid",
@@ -1631,7 +1631,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975935,
+      "updated": 1739525571154,
       "link": null,
       "locked": false,
       "fontSize": 37.89631076388895,
@@ -1646,8 +1646,8 @@
     },
     {
       "type": "text",
-      "version": 1142,
-      "versionNonce": 1216265225,
+      "version": 1144,
+      "versionNonce": 381755108,
       "isDeleted": false,
       "id": "8gxDF97G3sUlR_VJXfP1r",
       "fillStyle": "solid",
@@ -1667,7 +1667,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975935,
+      "updated": 1739525571154,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1678,12 +1678,12 @@
       "containerId": null,
       "originalText": "0,  1",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 1175,
-      "versionNonce": 283223303,
+      "version": 1177,
+      "versionNonce": 143634780,
       "isDeleted": false,
       "id": "BAYLr2sR-xhqfgn_WEzbT",
       "fillStyle": "solid",
@@ -1703,7 +1703,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975936,
+      "updated": 1739525571155,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1714,12 +1714,12 @@
       "containerId": null,
       "originalText": "56, 23",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "text",
-      "version": 479,
-      "versionNonce": 591155945,
+      "version": 481,
+      "versionNonce": 1317249636,
       "isDeleted": false,
       "id": "PAUMqT0m0ENqJ7F1eD7Us",
       "fillStyle": "solid",
@@ -1739,7 +1739,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975937,
+      "updated": 1739525571155,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1750,7 +1750,7 @@
       "containerId": null,
       "originalText": "look like 🧐 ?",
       "lineHeight": 1.2,
-      "baseline": 34
+      "baseline": 35
     },
     {
       "type": "line",
@@ -1958,8 +1958,8 @@
     },
     {
       "type": "text",
-      "version": 190,
-      "versionNonce": 2073390119,
+      "version": 192,
+      "versionNonce": 113845724,
       "isDeleted": false,
       "id": "mYytUmKfL4bC--XAZr2e1",
       "fillStyle": "solid",
@@ -1979,7 +1979,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734727975938,
+      "updated": 1739525571156,
       "link": null,
       "locked": false,
       "fontSize": 25.435233944177398,
@@ -1990,7 +1990,7 @@
       "containerId": null,
       "originalText": "scalar \nproduct ...",
       "lineHeight": 1.2,
-      "baseline": 54
+      "baseline": 55
     },
     {
       "type": "arrow",
