@@ -63,8 +63,8 @@
     },
     {
       "type": "text",
-      "version": 1135,
-      "versionNonce": 1829028823,
+      "version": 1136,
+      "versionNonce": 1006295694,
       "isDeleted": false,
       "id": "7oL7cduIOspFYUsbAs8Qv",
       "fillStyle": "solid",
@@ -84,7 +84,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652080,
+      "updated": 1739525139061,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -95,12 +95,12 @@
       "containerId": null,
       "originalText": "So ... ",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 1295,
-      "versionNonce": 1702578457,
+      "version": 1296,
+      "versionNonce": 966810962,
       "isDeleted": false,
       "id": "AmlYOZ55CmA4ucCnz_ngx",
       "fillStyle": "solid",
@@ -120,7 +120,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652084,
+      "updated": 1739525139063,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -131,12 +131,12 @@
       "containerId": null,
       "originalText": "One thing we could do would be\nto look for a matrix M that makes the least possible error 🧐...",
       "lineHeight": 1.2,
-      "baseline": 99
+      "baseline": 98
     },
     {
       "type": "text",
-      "version": 1392,
-      "versionNonce": 965488887,
+      "version": 1393,
+      "versionNonce": 1964792014,
       "isDeleted": false,
       "id": "OTgJyLDoNCxP4J71zQXSK",
       "fillStyle": "solid",
@@ -156,7 +156,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652085,
+      "updated": 1739525139064,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -167,12 +167,12 @@
       "containerId": null,
       "originalText": "On Average ...",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 1708,
-      "versionNonce": 423935481,
+      "version": 1709,
+      "versionNonce": 1007477522,
       "isDeleted": false,
       "id": "4V4pG-W5md96fAGkzE4FO",
       "fillStyle": "solid",
@@ -192,7 +192,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652086,
+      "updated": 1739525139064,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -203,12 +203,12 @@
       "containerId": null,
       "originalText": "Over as many labeled examples of handwritten digits ...",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 1798,
-      "versionNonce": 417921559,
+      "version": 1799,
+      "versionNonce": 32771854,
       "isDeleted": false,
       "id": "XWMgkJPlhp6sJ04gTywrG",
       "fillStyle": "solid",
@@ -228,7 +228,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652086,
+      "updated": 1739525139064,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -239,12 +239,12 @@
       "containerId": null,
       "originalText": "that we can get our hands on",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 757,
-      "versionNonce": 30185177,
+      "version": 758,
+      "versionNonce": 1382199506,
       "isDeleted": false,
       "id": "AJzQaNc2nQRSa6fvbFeml",
       "fillStyle": "solid",
@@ -264,7 +264,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652089,
+      "updated": 1739525139066,
       "link": null,
       "locked": false,
       "fontSize": 65.52619209304143,
@@ -279,8 +279,8 @@
     },
     {
       "type": "text",
-      "version": 1880,
-      "versionNonce": 1074765623,
+      "version": 1881,
+      "versionNonce": 2130378062,
       "isDeleted": false,
       "id": "macKtY4ja1t8nZPqilkz4",
       "fillStyle": "solid",
@@ -300,7 +300,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724652090,
+      "updated": 1739525139067,
       "link": null,
       "locked": false,
       "fontSize": 45.76333579706575,
@@ -311,7 +311,7 @@
       "containerId": null,
       "originalText": "Lemme Explain ...",
       "lineHeight": 1.2,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "image",

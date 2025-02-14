@@ -34,8 +34,8 @@
     },
     {
       "type": "text",
-      "version": 764,
-      "versionNonce": 1533792384,
+      "version": 765,
+      "versionNonce": 665021025,
       "isDeleted": false,
       "id": "AJzQaNc2nQRSa6fvbFeml",
       "fillStyle": "solid",
@@ -55,7 +55,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769900,
+      "updated": 1739525167273,
       "link": null,
       "locked": false,
       "fontSize": 65.52619209304143,
@@ -70,8 +70,8 @@
     },
     {
       "type": "text",
-      "version": 840,
-      "versionNonce": 1045919616,
+      "version": 841,
+      "versionNonce": 644327471,
       "isDeleted": false,
       "id": "bp4Ng7H_0WIWr0sSHSnJE",
       "fillStyle": "solid",
@@ -91,7 +91,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769903,
+      "updated": 1739525167274,
       "link": null,
       "locked": false,
       "fontSize": 65.52619209304143,
@@ -106,8 +106,8 @@
     },
     {
       "type": "text",
-      "version": 1062,
-      "versionNonce": 245219456,
+      "version": 1063,
+      "versionNonce": 325678657,
       "isDeleted": false,
       "id": "QF5CRNv9d-Fv2DYCwQLTi",
       "fillStyle": "solid",
@@ -127,7 +127,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769905,
+      "updated": 1739525167275,
       "link": null,
       "locked": false,
       "fontSize": 65.52619209304143,
@@ -142,8 +142,8 @@
     },
     {
       "type": "text",
-      "version": 1188,
-      "versionNonce": 58492800,
+      "version": 1189,
+      "versionNonce": 1254148687,
       "isDeleted": false,
       "id": "8tQ3IwcWWgIAq6HrEd4pT",
       "fillStyle": "solid",
@@ -163,7 +163,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769910,
+      "updated": 1739525167277,
       "link": null,
       "locked": false,
       "fontSize": 80.34095039382271,
@@ -178,8 +178,8 @@
     },
     {
       "type": "text",
-      "version": 1351,
-      "versionNonce": 1712435328,
+      "version": 1352,
+      "versionNonce": 1447233057,
       "isDeleted": false,
       "id": "fcltomCk3rLt6VC1tnFMv",
       "fillStyle": "solid",
@@ -199,7 +199,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769915,
+      "updated": 1739525167280,
       "link": null,
       "locked": false,
       "fontSize": 60.85790053275448,
@@ -210,7 +210,7 @@
       "containerId": null,
       "originalText": "Dedicated to minimizing continuous functions 😁!",
       "lineHeight": 1.2,
-      "baseline": 58
+      "baseline": 59
     },
     {
       "type": "image",
@@ -309,8 +309,8 @@
     },
     {
       "type": "text",
-      "version": 1455,
-      "versionNonce": 25139072,
+      "version": 1456,
+      "versionNonce": 1743825007,
       "isDeleted": false,
       "id": "Tb8QBpUgk8phgxZ9_mQ0A",
       "fillStyle": "solid",
@@ -330,7 +330,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724769916,
+      "updated": 1739525167280,
       "link": null,
       "locked": false,
       "fontSize": 60.85790053275448,
@@ -341,7 +341,7 @@
       "containerId": null,
       "originalText": "Math.",
       "lineHeight": 1.2,
-      "baseline": 58
+      "baseline": 59
     }
   ],
   "appState": {

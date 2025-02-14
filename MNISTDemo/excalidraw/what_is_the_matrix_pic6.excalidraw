@@ -67,8 +67,8 @@
     },
     {
       "type": "text",
-      "version": 767,
-      "versionNonce": 1865353923,
+      "version": 768,
+      "versionNonce": 2098370451,
       "isDeleted": false,
       "id": "AJzQaNc2nQRSa6fvbFeml",
       "fillStyle": "solid",
@@ -88,7 +88,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724821462,
+      "updated": 1739525182763,
       "link": null,
       "locked": false,
       "fontSize": 65.52619209304143,
@@ -132,8 +132,8 @@
     },
     {
       "type": "text",
-      "version": 954,
-      "versionNonce": 657340141,
+      "version": 955,
+      "versionNonce": 78815005,
       "isDeleted": false,
       "id": "mf-UgDvdPkCbQjula4Dhs",
       "fillStyle": "solid",
@@ -153,7 +153,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1734724821467,
+      "updated": 1739525182767,
       "link": null,
       "locked": false,
       "fontSize": 27.57472097296469,
@@ -164,7 +164,7 @@
       "containerId": null,
       "originalText": "Ladies and Gentlemen, for your consideration, the Gradient Descent Algorithm",
       "lineHeight": 1.2,
-      "baseline": 26
+      "baseline": 27
     },
     {
       "type": "image",
