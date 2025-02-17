@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 377,
-      "versionNonce": 1681614868,
+      "version": 378,
+      "versionNonce": 160007039,
       "isDeleted": false,
       "id": "s3JfhC0MCd1kxt-2Yp3i4",
       "fillStyle": "solid",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739526401707,
+      "updated": 1739550183641,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -37,12 +37,12 @@
       "containerId": null,
       "originalText": "The RNN: Reccurent Neural Network 🤗 !",
       "lineHeight": 1.2,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 1508,
-      "versionNonce": 496882476,
+      "version": 1509,
+      "versionNonce": 1348581361,
       "isDeleted": false,
       "id": "QN_DvemWSCHnpiP9Ff-oG",
       "fillStyle": "solid",
@@ -62,7 +62,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739526401709,
+      "updated": 1739550183646,
       "link": null,
       "locked": false,
       "fontSize": 26.03234777823239,
@@ -77,8 +77,8 @@
     },
     {
       "type": "text",
-      "version": 1613,
-      "versionNonce": 1916618132,
+      "version": 1614,
+      "versionNonce": 699055007,
       "isDeleted": false,
       "id": "9xdbp_dUMgdfLm0V4vtfd",
       "fillStyle": "solid",
@@ -98,7 +98,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739526401710,
+      "updated": 1739550183649,
       "link": null,
       "locked": false,
       "fontSize": 17.901980605631064,
@@ -113,8 +113,8 @@
     },
     {
       "type": "text",
-      "version": 1371,
-      "versionNonce": 1330810284,
+      "version": 1372,
+      "versionNonce": 673681873,
       "isDeleted": false,
       "id": "exEeRvpJW3rseZizVWSK6",
       "fillStyle": "solid",
@@ -134,7 +134,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739526401711,
+      "updated": 1739550183652,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -145,7 +145,7 @@
       "containerId": null,
       "originalText": "one after the other 😀!",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "line",

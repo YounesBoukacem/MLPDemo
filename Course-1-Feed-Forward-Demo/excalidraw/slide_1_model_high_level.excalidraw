@@ -2139,8 +2139,8 @@
     },
     {
       "type": "text",
-      "version": 153,
-      "versionNonce": 1539705563,
+      "version": 155,
+      "versionNonce": 1772358440,
       "isDeleted": false,
       "id": "yIU4wH-aX7yKz2sjtJUdd",
       "fillStyle": "solid",
@@ -2165,7 +2165,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739525524141,
+      "updated": 1739810951420,
       "link": null,
       "locked": false,
       "fontSize": 77.60200218640777,
@@ -2176,12 +2176,12 @@
       "containerId": null,
       "originalText": "f(",
       "lineHeight": 1.2,
-      "baseline": 75
+      "baseline": 74
     },
     {
       "type": "text",
-      "version": 107,
-      "versionNonce": 865657941,
+      "version": 109,
+      "versionNonce": 2060688216,
       "isDeleted": false,
       "id": "vM7chZbUeoRifjx_yH37O",
       "fillStyle": "solid",
@@ -2206,7 +2206,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739525524143,
+      "updated": 1739810951423,
       "link": null,
       "locked": false,
       "fontSize": 73.8403222764625,
@@ -2267,8 +2267,8 @@
     },
     {
       "type": "text",
-      "version": 146,
-      "versionNonce": 437647227,
+      "version": 148,
+      "versionNonce": 38299176,
       "isDeleted": false,
       "id": "0fwfdRdHYovgkqi_JZ790",
       "fillStyle": "solid",
@@ -2288,7 +2288,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739525524143,
+      "updated": 1739810951425,
       "link": null,
       "locked": false,
       "fontSize": 70.42630453543347,
@@ -2299,12 +2299,12 @@
       "containerId": null,
       "originalText": "0",
       "lineHeight": 1.2,
-      "baseline": 67
+      "baseline": 68
     },
     {
       "type": "text",
-      "version": 116,
-      "versionNonce": 872649141,
+      "version": 118,
+      "versionNonce": 1903587416,
       "isDeleted": false,
       "id": "jcpCKt0H5OQz7N5Dylr8z",
       "fillStyle": "solid",
@@ -2324,7 +2324,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739525524145,
+      "updated": 1739810951429,
       "link": null,
       "locked": false,
       "fontSize": 57.90218750000002,
@@ -2335,12 +2335,12 @@
       "containerId": null,
       "originalText": "??",
       "lineHeight": 1.2,
-      "baseline": 55
+      "baseline": 56
     },
     {
       "type": "text",
-      "version": 83,
-      "versionNonce": 754929691,
+      "version": 85,
+      "versionNonce": 1537827112,
       "isDeleted": false,
       "id": "Ga4r2HJhkYwAIRIpXwFfX",
       "fillStyle": "solid",
@@ -2360,7 +2360,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739525524146,
+      "updated": 1739810951434,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -2371,12 +2371,12 @@
       "containerId": null,
       "originalText": "The Problem ...",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
-      "version": 274,
-      "versionNonce": 561091349,
+      "version": 276,
+      "versionNonce": 385262936,
       "isDeleted": false,
       "id": "TybxTQxFOXLL-4ExNTcfn",
       "fillStyle": "solid",
@@ -2396,7 +2396,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739525524148,
+      "updated": 1739810951439,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -2407,7 +2407,7 @@
       "containerId": null,
       "originalText": "Handwritten Digits Classification 😄",
       "lineHeight": 1.2,
-      "baseline": 35
+      "baseline": 34
     }
   ],
   "appState": {
