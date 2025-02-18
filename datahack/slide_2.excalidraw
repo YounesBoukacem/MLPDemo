@@ -644,8 +644,8 @@
     },
     {
       "type": "text",
-      "version": 3354,
-      "versionNonce": 895860986,
+      "version": 3355,
+      "versionNonce": 1218573542,
       "isDeleted": false,
       "id": "g7vHO66MAvPbwpZC1BaFO",
       "fillStyle": "solid",
@@ -654,11 +654,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -422.8946102304565,
+      "x": -428.7539852304565,
       "y": 1380.6312349713312,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 445.3125,
+      "width": 457.03125,
       "height": 24,
       "seed": 1230520486,
       "groupIds": [],
@@ -670,23 +670,23 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739876637795,
+      "updated": 1739877642111,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great]",
+      "text": "[Hello, how, are, you, doing, ?, Great]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great]",
       "lineHeight": 1.2,
       "baseline": 18
     },
     {
       "type": "text",
-      "version": 3561,
-      "versionNonce": 1058384250,
+      "version": 3562,
+      "versionNonce": 1669681638,
       "isDeleted": false,
       "id": "AXMi9t8U1e05DnGO9ygMb",
       "fillStyle": "solid",
@@ -695,11 +695,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -418.72120032014925,
+      "x": -424.58057532014925,
       "y": 1503.7234395197104,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 527.34375,
+      "width": 539.0625,
       "height": 24,
       "seed": 1652251622,
       "groupIds": [],
@@ -715,23 +715,23 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739876619269,
+      "updated": 1739877645751,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great, thank]",
+      "text": "[Hello, how, are, you, doing, ?, Great, thank]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great, thank]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great, thank]",
       "lineHeight": 1.2,
       "baseline": 18
     },
     {
       "type": "text",
-      "version": 3639,
-      "versionNonce": 1800040742,
+      "version": 3640,
+      "versionNonce": 1687432550,
       "isDeleted": false,
       "id": "9cu4afkE2XVGG0L55o5qb",
       "fillStyle": "solid",
@@ -740,11 +740,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -420.944573773499,
+      "x": -426.803948773499,
       "y": 1625.2431392521466,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 585.9375,
+      "width": 597.65625,
       "height": 24,
       "seed": 2144392058,
       "groupIds": [],
@@ -760,23 +760,23 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739877184408,
+      "updated": 1739877648306,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great, thank, you]",
+      "text": "[Hello, how, are, you, doing, ?, Great, thank, you]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great, thank, you]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great, thank, you]",
       "lineHeight": 1.2,
       "baseline": 18
     },
     {
       "type": "text",
-      "version": 3837,
-      "versionNonce": 4073894,
+      "version": 3838,
+      "versionNonce": 1185442022,
       "isDeleted": false,
       "id": "ELVlrFCr9LVf61PwOsi1Q",
       "fillStyle": "solid",
@@ -785,11 +785,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -424.5091680659437,
+      "x": -430.3685430659437,
       "y": 1747.276647476224,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 644.53125,
+      "width": 656.25,
       "height": 24,
       "seed": 249704614,
       "groupIds": [],
@@ -805,23 +805,23 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739877192484,
+      "updated": 1739877650813,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great, thank, you, and]",
+      "text": "[Hello, how, are, you, doing, ?, Great, thank, you, and]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great, thank, you, and]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great, thank, you, and]",
       "lineHeight": 1.2,
       "baseline": 18
     },
     {
       "type": "text",
-      "version": 4044,
-      "versionNonce": 1268352186,
+      "version": 4045,
+      "versionNonce": 507118694,
       "isDeleted": false,
       "id": "xHWhyx7HEKJ6A00WXOvby",
       "fillStyle": "solid",
@@ -830,11 +830,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -422.6423013654832,
+      "x": -428.5016763654832,
       "y": 1867.42913757629,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 703.125,
+      "width": 714.84375,
       "height": 24,
       "seed": 144564070,
       "groupIds": [],
@@ -846,23 +846,23 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739876194502,
+      "updated": 1739877653211,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great, thank, you, and, you]",
+      "text": "[Hello, how, are, you, doing, ?, Great, thank, you, and, you]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great, thank, you, and, you]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great, thank, you, and, you]",
       "lineHeight": 1.2,
       "baseline": 18
     },
     {
       "type": "text",
-      "version": 4142,
-      "versionNonce": 759396774,
+      "version": 4143,
+      "versionNonce": 303566842,
       "isDeleted": false,
       "id": "9SlG__2r5Z1VjE0p9Xkrt",
       "fillStyle": "solid",
@@ -871,11 +871,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -416.5057540123733,
+      "x": -422.3651290123733,
       "y": 2006.0680532800777,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 738.28125,
+      "width": 750,
       "height": 24,
       "seed": 48446394,
       "groupIds": [],
@@ -887,16 +887,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739876194187,
+      "updated": 1739877657626,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 3,
-      "text": "[Hello, how, are, you, doing, ? Great, thank, you, and, you, ?]",
+      "text": "[Hello, how, are, you, doing, ?, Great, thank, you, and, you, ?]",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "[Hello, how, are, you, doing, ? Great, thank, you, and, you, ?]",
+      "originalText": "[Hello, how, are, you, doing, ?, Great, thank, you, and, you, ?]",
       "lineHeight": 1.2,
       "baseline": 18
     },
@@ -1308,8 +1308,8 @@
     },
     {
       "type": "rectangle",
-      "version": 760,
-      "versionNonce": 953012838,
+      "version": 789,
+      "versionNonce": 78791034,
       "isDeleted": false,
       "id": "4vI1SX9t3IBnqcHwpInWD",
       "fillStyle": "solid",
@@ -1318,8 +1318,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 243.34522831256845,
-      "y": 1106.3623546727215,
+      "x": 257.7954924631195,
+      "y": 1107.4505026394984,
       "strokeColor": "transparent",
       "backgroundColor": "#fab005",
       "width": 121.29544662342842,
@@ -1333,14 +1333,14 @@
         "type": 3
       },
       "boundElements": null,
-      "updated": 1739875526918,
+      "updated": 1739877610218,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 5172,
-      "versionNonce": 1618160934,
+      "version": 5178,
+      "versionNonce": 1275688314,
       "isDeleted": false,
       "id": "CFevqcUsfM0d44bZ6m0MZ",
       "fillStyle": "solid",
@@ -1349,11 +1349,11 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": -270.5078343521438,
-      "y": 1105.4809604316858,
+      "x": -276.90848342930735,
+      "y": 1106.8798301090235,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#343a40",
-      "width": 1122.92578125,
+      "width": 1136.7890625,
       "height": 28.39698519170869,
       "seed": 1132414586,
       "groupIds": [
@@ -1362,16 +1362,16 @@
       "frameId": null,
       "roundness": null,
       "boundElements": null,
-      "updated": 1739877361259,
+      "updated": 1739877608526,
       "link": null,
       "locked": false,
       "fontSize": 23.66415432642391,
       "fontFamily": 3,
-      "text": "Step [3]. We predict the next word by sampling from the probability distribution ",
+      "text": "Step [3]. You predict the next word by sampling from the probability distribution ",
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Step [3]. We predict the next word by sampling from the probability distribution ",
+      "originalText": "Step [3]. You predict the next word by sampling from the probability distribution ",
       "lineHeight": 1.2,
       "baseline": 23
     },
@@ -1972,9 +1972,9 @@
     {
       "id": "bh7EiTGcRbqhLNYBoqEGB",
       "type": "arrow",
-      "x": 37.59164148082402,
+      "x": 43.451016480823995,
       "y": 1395.5086365309396,
-      "width": 90.70856104812054,
+      "width": 84.84918604812057,
       "height": 0,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -1990,11 +1990,11 @@
         "type": 2
       },
       "seed": 51723238,
-      "version": 1577,
-      "versionNonce": 695867942,
+      "version": 1578,
+      "versionNonce": 262039590,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876639750,
+      "updated": 1739877642114,
       "link": null,
       "locked": false,
       "points": [
@@ -2003,7 +2003,7 @@
           0
         ],
         [
-          90.70856104812054,
+          84.84918604812057,
           0
         ]
       ],
@@ -2020,9 +2020,9 @@
     {
       "id": "E5dFV7CkrikruQjoJ-qKf",
       "type": "arrow",
-      "x": 115.02392190770558,
+      "x": 120.88329690770558,
       "y": 1517.836715122096,
-      "width": 79.8945657564052,
+      "width": 74.0351907564052,
       "height": 0,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2038,11 +2038,11 @@
         "type": 2
       },
       "seed": 1058413158,
-      "version": 2169,
-      "versionNonce": 976904742,
+      "version": 2171,
+      "versionNonce": 1995936678,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876627433,
+      "updated": 1739877645755,
       "link": null,
       "locked": false,
       "points": [
@@ -2051,7 +2051,7 @@
           0
         ],
         [
-          79.8945657564052,
+          74.0351907564052,
           0
         ]
       ],
@@ -2072,9 +2072,9 @@
     {
       "id": "d93ber9xOKNVIlCsaI6Mx",
       "type": "arrow",
-      "x": 179.91892989600956,
+      "x": 185.77830489600956,
       "y": 1638.311662611962,
-      "width": 69.36353073681698,
+      "width": 63.50415573681698,
       "height": 0,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2090,11 +2090,11 @@
         "type": 2
       },
       "seed": 1334981754,
-      "version": 2212,
-      "versionNonce": 178652154,
+      "version": 2214,
+      "versionNonce": 928653094,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739877186164,
+      "updated": 1739877648310,
       "link": null,
       "locked": false,
       "points": [
@@ -2103,7 +2103,7 @@
           0
         ],
         [
-          69.36353073681698,
+          63.50415573681698,
           0
         ]
       ],
@@ -2124,9 +2124,9 @@
     {
       "id": "vlAoKdhuSYZV5v6B04vLi",
       "type": "arrow",
-      "x": 233.16205495234794,
+      "x": 239.02142995234792,
       "y": 1758.8636729241962,
-      "width": 85.26062354926137,
+      "width": 79.4012485492614,
       "height": 0,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2142,11 +2142,11 @@
         "type": 2
       },
       "seed": 1239334694,
-      "version": 2540,
-      "versionNonce": 1285471718,
+      "version": 2542,
+      "versionNonce": 306055846,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739877203539,
+      "updated": 1739877650818,
       "link": null,
       "locked": false,
       "points": [
@@ -2155,7 +2155,7 @@
           0
         ],
         [
-          85.26062354926137,
+          79.4012485492614,
           0
         ]
       ],
@@ -2962,7 +2962,7 @@
       "type": "arrow",
       "x": 1087.803576823465,
       "y": 1416.0008467278246,
-      "width": 998.8729397742114,
+      "width": 996.5706385367115,
       "height": 82.68133266297536,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2978,11 +2978,11 @@
         "type": 2
       },
       "seed": 712044198,
-      "version": 391,
-      "versionNonce": 1743703590,
+      "version": 392,
+      "versionNonce": 269362470,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1739876194187,
+      "updated": 1739877645754,
       "link": null,
       "locked": false,
       "points": [
@@ -2999,7 +2999,7 @@
           42.000504595310986
         ],
         [
-          -998.8729397742114,
+          -996.5706385367115,
           82.68133266297536
         ]
       ],
@@ -3022,7 +3022,7 @@
       "type": "arrow",
       "x": 1139.489208401993,
       "y": 1536.1308515535811,
-      "width": 1004.0636704640306,
+      "width": 1001.1181070649695,
       "height": 87.01526980068911,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -3038,11 +3038,11 @@
         "type": 2
       },
       "seed": 507285754,
-      "version": 528,
-      "versionNonce": 287438246,
+      "version": 529,
+      "versionNonce": 1370853542,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876631979,
+      "updated": 1739877648309,
       "link": null,
       "locked": false,
       "points": [
@@ -3059,7 +3059,7 @@
           30.630426482464145
         ],
         [
-          -1004.0636704640306,
+          -1001.1181070649695,
           87.01526980068911
         ]
       ],
@@ -3082,7 +3082,7 @@
       "type": "arrow",
       "x": 1181.098814826309,
       "y": 1654.2992926989289,
-      "width": 992.2790877986558,
+      "width": 989.1366242502622,
       "height": 90.60735546653268,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -3098,11 +3098,11 @@
         "type": 2
       },
       "seed": 301745786,
-      "version": 627,
-      "versionNonce": 2059070074,
+      "version": 628,
+      "versionNonce": 1823890470,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876194501,
+      "updated": 1739877650816,
       "link": null,
       "locked": false,
       "points": [
@@ -3119,7 +3119,7 @@
           30.630426482464145
         ],
         [
-          -992.2790877986558,
+          -989.1366242502622,
           90.60735546653268
         ]
       ],
@@ -3142,7 +3142,7 @@
       "type": "arrow",
       "x": 1249.878169650277,
       "y": 1775.4575837104767,
-      "width": 985.2848984202828,
+      "width": 982.5202655272471,
       "height": 82.56706980521722,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -3158,11 +3158,11 @@
         "type": 2
       },
       "seed": 468426470,
-      "version": 734,
-      "versionNonce": 1464472570,
+      "version": 735,
+      "versionNonce": 646481830,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876194502,
+      "updated": 1739877653215,
       "link": null,
       "locked": false,
       "points": [
@@ -3179,7 +3179,7 @@
           30.630426482464145
         ],
         [
-          -985.2848984202828,
+          -982.5202655272471,
           82.56706980521722
         ]
       ],
@@ -3202,7 +3202,7 @@
       "type": "arrow",
       "x": 1320.882148040851,
       "y": 1898.7552360274244,
-      "width": 1011.225842502256,
+      "width": 1008.4221599724301,
       "height": 97.37461708866181,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -3218,11 +3218,11 @@
         "type": 2
       },
       "seed": 1112468262,
-      "version": 815,
-      "versionNonce": 2088181306,
+      "version": 816,
+      "versionNonce": 1934098618,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1739876194502,
+      "updated": 1739877657629,
       "link": null,
       "locked": false,
       "points": [
@@ -3239,7 +3239,7 @@
           45.43797376590874
         ],
         [
-          -1011.225842502256,
+          -1008.4221599724301,
           97.37461708866181
         ]
       ],
