@@ -63,8 +63,8 @@
     },
     {
       "type": "text",
-      "version": 252,
-      "versionNonce": 1727341796,
+      "version": 253,
+      "versionNonce": 2044145262,
       "isDeleted": false,
       "id": "nLtp-mW_WCf9n87ZqLDwV",
       "fillStyle": "solid",
@@ -84,7 +84,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124140,
+      "updated": 1739965894042,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -95,12 +95,12 @@
       "containerId": null,
       "originalText": "Unless you've been living in a cave for the last 5 years ...",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 422,
-      "versionNonce": 168233820,
+      "version": 423,
+      "versionNonce": 357283698,
       "isDeleted": false,
       "id": "MGCPaRCy5PfzVLXiJb4so",
       "fillStyle": "solid",
@@ -120,7 +120,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124144,
+      "updated": 1739965894047,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -135,8 +135,8 @@
     },
     {
       "type": "text",
-      "version": 302,
-      "versionNonce": 1179052132,
+      "version": 303,
+      "versionNonce": 209070,
       "isDeleted": false,
       "id": "7i7uWlKi-memdgrAnk6NL",
       "fillStyle": "solid",
@@ -156,7 +156,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124146,
+      "updated": 1739965894049,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -167,12 +167,12 @@
       "containerId": null,
       "originalText": "You've certainly heard of ChatGPT",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1013,
-      "versionNonce": 1413824476,
+      "version": 1014,
+      "versionNonce": 1502083378,
       "isDeleted": false,
       "id": "59k2ZRuIZGVXMynroa2JR",
       "fillStyle": "solid",
@@ -192,7 +192,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124147,
+      "updated": 1739965894051,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -203,12 +203,12 @@
       "containerId": null,
       "originalText": "ChatGPT is arguably the first artificial system that is able to chat so seemlesly like a real human 😲!",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1346,
-      "versionNonce": 1838431204,
+      "version": 1347,
+      "versionNonce": 1576332014,
       "isDeleted": false,
       "id": "lYLdPpEQusDdxrMzzj5UV",
       "fillStyle": "solid",
@@ -228,7 +228,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124149,
+      "updated": 1739965894053,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -243,8 +243,8 @@
     },
     {
       "type": "text",
-      "version": 1411,
-      "versionNonce": 298378332,
+      "version": 1412,
+      "versionNonce": 1482031858,
       "isDeleted": false,
       "id": "FLl6GrgFRcrbiEIhbVaQd",
       "fillStyle": "solid",
@@ -264,7 +264,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124150,
+      "updated": 1739965894054,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -275,12 +275,12 @@
       "containerId": null,
       "originalText": "... we will unveil the fundamentals of how models like ChatGPT work",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1541,
-      "versionNonce": 1995120484,
+      "version": 1542,
+      "versionNonce": 37051694,
       "isDeleted": false,
       "id": "DpZv8fDCeVP_IwyS4x8Lx",
       "fillStyle": "solid",
@@ -300,7 +300,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124152,
+      "updated": 1739965894057,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -311,12 +311,12 @@
       "containerId": null,
       "originalText": "... so that you can fully datahack your way through the \"TinyLM\" challenge of this DataHack 2025 Edition 🔥🚀",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1257,
-      "versionNonce": 409204956,
+      "version": 1258,
+      "versionNonce": 1815925938,
       "isDeleted": false,
       "id": "jxqmvsZc689c0NfYUWy-L",
       "fillStyle": "solid",
@@ -336,7 +336,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124154,
+      "updated": 1739965894058,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -347,12 +347,12 @@
       "containerId": null,
       "originalText": "More than that, ChatGPT displays strong reasoning 🧠 abilities in various contexts like\ntranslation, code understanding, etc ...",
       "lineHeight": 1.2,
-      "baseline": 42
+      "baseline": 43
     },
     {
       "type": "text",
-      "version": 1801,
-      "versionNonce": 177836772,
+      "version": 1802,
+      "versionNonce": 573409134,
       "isDeleted": false,
       "id": "Ldn2QIZZB9ST5PtBrbNxX",
       "fillStyle": "solid",
@@ -372,7 +372,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124154,
+      "updated": 1739965894060,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -383,12 +383,12 @@
       "containerId": null,
       "originalText": "Though it may seem \"magical\" 🧙 , ChatGPT is nothing more than a very well designed special type of neural network",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1951,
-      "versionNonce": 866680156,
+      "version": 1952,
+      "versionNonce": 115568242,
       "isDeleted": false,
       "id": "X9vaGHMFV4Uzm3huNblFo",
       "fillStyle": "solid",
@@ -408,7 +408,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124155,
+      "updated": 1739965894061,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -419,12 +419,12 @@
       "containerId": null,
       "originalText": "... containing a huuuuuge number of parameters (learnable weights)",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 2039,
-      "versionNonce": 388863588,
+      "version": 2040,
+      "versionNonce": 1579575726,
       "isDeleted": false,
       "id": "GTyBmZ2kqwnHdoL7jV-tA",
       "fillStyle": "solid",
@@ -444,7 +444,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739811124155,
+      "updated": 1739965894062,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -455,7 +455,7 @@
       "containerId": null,
       "originalText": "...and trained on massive amounts of textual data !",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "image",

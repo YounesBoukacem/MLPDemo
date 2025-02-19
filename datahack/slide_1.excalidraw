@@ -274,12 +274,12 @@
       "containerId": null,
       "originalText": "Simply put ... A Language Model is just a function that :",
       "lineHeight": 1.2,
-      "baseline": 22
+      "baseline": 23
     },
     {
       "type": "text",
-      "version": 3000,
-      "versionNonce": 786830362,
+      "version": 3001,
+      "versionNonce": 1757376546,
       "isDeleted": false,
       "id": "6WQsLXqzXNWtXnodUhiEZ",
       "fillStyle": "solid",
@@ -299,7 +299,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888064,
+      "updated": 1739965899687,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -314,8 +314,8 @@
     },
     {
       "type": "text",
-      "version": 3014,
-      "versionNonce": 738230490,
+      "version": 3015,
+      "versionNonce": 424188670,
       "isDeleted": false,
       "id": "xbid-bctz1Vkm9kCWO7lu",
       "fillStyle": "solid",
@@ -335,7 +335,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888064,
+      "updated": 1739965899688,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -382,7 +382,7 @@
       "containerId": null,
       "originalText": "In our little example here, you can see that the Langage Model assigns high probabilities to likely words such as 'doing' or '?'",
       "lineHeight": 1.2,
-      "baseline": 22
+      "baseline": 23
     },
     {
       "type": "text",
@@ -418,12 +418,12 @@
       "containerId": null,
       "originalText": "... and very little probability to less likely words, like \"banana\". ",
       "lineHeight": 1.2,
-      "baseline": 22
+      "baseline": 23
     },
     {
       "type": "text",
-      "version": 3790,
-      "versionNonce": 1221454086,
+      "version": 3791,
+      "versionNonce": 1902189538,
       "isDeleted": false,
       "id": "7mWlvdVeH8jMPzbgtblE6",
       "fillStyle": "solid",
@@ -443,7 +443,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888064,
+      "updated": 1739965899693,
       "link": null,
       "locked": false,
       "fontSize": 36.02713229142983,
@@ -458,8 +458,8 @@
     },
     {
       "type": "text",
-      "version": 2028,
-      "versionNonce": 1646629466,
+      "version": 2029,
+      "versionNonce": 632851262,
       "isDeleted": false,
       "id": "veNHtDLa5ONyKU9Oq4Cpi",
       "fillStyle": "solid",
@@ -479,7 +479,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888064,
+      "updated": 1739965899697,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -490,12 +490,12 @@
       "containerId": null,
       "originalText": "receives as input a string of consecutive words like for example [How, are, you]",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 2714,
-      "versionNonce": 320324870,
+      "version": 2715,
+      "versionNonce": 408375202,
       "isDeleted": false,
       "id": "2wBv4LuTH3JekTQia6uUY",
       "fillStyle": "solid",
@@ -515,7 +515,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739884011952,
+      "updated": 1739965899699,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -530,8 +530,8 @@
     },
     {
       "type": "text",
-      "version": 2910,
-      "versionNonce": 488500806,
+      "version": 2911,
+      "versionNonce": 926970750,
       "isDeleted": false,
       "id": "nWv_C-lefwUjNrcg1FoKp",
       "fillStyle": "solid",
@@ -550,8 +550,8 @@
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "boundElements": null,
-      "updated": 1739884059983,
+      "boundElements": [],
+      "updated": 1739965899700,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -566,8 +566,8 @@
     },
     {
       "type": "text",
-      "version": 593,
-      "versionNonce": 532668294,
+      "version": 594,
+      "versionNonce": 835783522,
       "isDeleted": false,
       "id": "W19ETRKygygRdUZKMQFr5",
       "fillStyle": "solid",
@@ -587,7 +587,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888064,
+      "updated": 1739965899700,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -598,12 +598,12 @@
       "containerId": null,
       "originalText": "... and returns as output a probability distribution for the next word that follows that input string",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 1138,
-      "versionNonce": 1377961946,
+      "version": 1139,
+      "versionNonce": 1478579134,
       "isDeleted": false,
       "id": "yJCB8NbVYwnm-spAWo9LD",
       "fillStyle": "solid",
@@ -628,7 +628,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739884066816,
+      "updated": 1739965899700,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -639,7 +639,7 @@
       "containerId": null,
       "originalText": "[How, are, you]",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "ellipse",
@@ -681,8 +681,8 @@
     },
     {
       "type": "text",
-      "version": 1308,
-      "versionNonce": 1874294682,
+      "version": 1309,
+      "versionNonce": 874336034,
       "isDeleted": false,
       "id": "beevWd9lFfDdsU0N3XC2j",
       "fillStyle": "solid",
@@ -707,7 +707,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739884046941,
+      "updated": 1739965899703,
       "link": null,
       "locked": false,
       "fontSize": 29.331739552372472,
@@ -718,7 +718,7 @@
       "containerId": null,
       "originalText": "Language\nModel",
       "lineHeight": 1.2,
-      "baseline": 64
+      "baseline": 63
     },
     {
       "type": "arrow",
@@ -826,8 +826,8 @@
     },
     {
       "type": "text",
-      "version": 589,
-      "versionNonce": 94209350,
+      "version": 590,
+      "versionNonce": 578563070,
       "isDeleted": false,
       "id": "NY_vvFTAWGnUKYRSiErse",
       "fillStyle": "solid",
@@ -847,7 +847,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888065,
+      "updated": 1739965899704,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -858,12 +858,12 @@
       "containerId": null,
       "originalText": "Before we dive into the entrails of the neural networks that compose models like ChatGPT",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 671,
-      "versionNonce": 1356651034,
+      "version": 672,
+      "versionNonce": 1940593378,
       "isDeleted": false,
       "id": "huFhrGkXfz0Ua3NxtXWHY",
       "fillStyle": "solid",
@@ -883,7 +883,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888065,
+      "updated": 1739965899705,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -898,8 +898,8 @@
     },
     {
       "type": "text",
-      "version": 1055,
-      "versionNonce": 1019095942,
+      "version": 1056,
+      "versionNonce": 1146223678,
       "isDeleted": false,
       "id": "w9dmSkCOhn4VccRf2MBLV",
       "fillStyle": "solid",
@@ -919,7 +919,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739884049449,
+      "updated": 1739965899706,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -934,8 +934,8 @@
     },
     {
       "type": "text",
-      "version": 742,
-      "versionNonce": 791578330,
+      "version": 743,
+      "versionNonce": 1594453666,
       "isDeleted": false,
       "id": "6amoh79a9xUxZsiIKSLd9",
       "fillStyle": "solid",
@@ -955,7 +955,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739815888065,
+      "updated": 1739965899706,
       "link": null,
       "locked": false,
       "fontSize": 28,
