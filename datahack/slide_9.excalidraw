@@ -62,6 +62,35 @@
       "locked": false
     },
     {
+      "id": "6kvYvUROs1me71JsMx1_s",
+      "type": "rectangle",
+      "x": 347.98886470841677,
+      "y": 1289.1000001349169,
+      "width": 233.2362946984119,
+      "height": 46.80664499424532,
+      "angle": 0,
+      "strokeColor": "transparent",
+      "backgroundColor": "#fab005",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2064434735,
+      "version": 274,
+      "versionNonce": 1353588257,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1740055712877,
+      "link": null,
+      "locked": false
+    },
+    {
       "id": "QBIg3BzKqY0N6kQ3_FFr2",
       "type": "rectangle",
       "x": 906.5730938334882,
